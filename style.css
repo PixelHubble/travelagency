@@ -30,7 +30,7 @@
     float: left;
     display: block;
     padding: 10px;
-    color: #990000;
+    color: #FFD700;
     text-decoration: none;
     font-size: 20px;
     width: 30%;
@@ -38,22 +38,22 @@
 }
 a:link {
     text-decoration: none;
-    color: #990000;
+    color: #FFD700;
 }
 
 a:visited {
     text-decoration: none;
-    color: #990000;
+    color: #FFD700;
 }
 
 a:hover {
     text-decoration: none;
-    background-color: #663399;
+    background-color: #708090;
 }
 
 a:active {
     text-decoration: none;
-    color: #990000;
+    color: #FFD700;
 }
 
 #posterimage {
@@ -67,7 +67,7 @@ a:active {
     justify-content: center;
     word-break: break-all;
     font-family: 'Lobster Two', cursive;
-    color: #663399;
+    color: #708090;
     margin-bottom: 5%;
 }
 
@@ -98,7 +98,7 @@ a:active {
     float: left;
     display: block;
     padding: 5px;
-    color: #990000;
+    color: #FFD700;
     text-decoration: none;
     font-size: 15px;    
     width: 20%;
@@ -109,7 +109,7 @@ a:active {
     justify-content: center;
     font-family: 'Lobster Two', cursive;
     font-size: 25px;
-    color: #663399;
+    color: #708090;
 }
 
 #paratitle {
@@ -129,7 +129,7 @@ a:active {
    max-width: 40%;
    border-style: solid;
    border-width: 5px;
-   border-color: #990000;
+   border-color: #FFD700;
    gap: 30px;
    margin-left: 50px;
 }
@@ -143,5 +143,5 @@ img {
     max-width: 70%;
     border-style: solid;
     border-width: 5px;
-    border-color: #990000;
+    border-color: #FFD700;
 }
